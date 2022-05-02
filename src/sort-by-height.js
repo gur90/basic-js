@@ -12,7 +12,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  * The result should be [-1, 150, 160, 170, -1, -1, 180, 190]
  */
 function sortByHeight(arr) {
-  let j=0;
+  /*let j=0;
   while ( j<100){
     let k=0;
     let i=0;
@@ -33,7 +33,7 @@ function sortByHeight(arr) {
   }
   }
  return arr;
-  //console.log(arr)
+  //console.log(arr)*/
 }
 
 
